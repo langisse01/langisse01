@@ -1,6 +1,6 @@
 # Bem-vindo ao meu Perfil! 👋
 
-Sou Faztudo Languisse, especialista de projetos de informática e inteligência artificial baseado em Tete, Moçambique. desenvolvo websites, projetos IA, aplicativos de gestão de estoque, receitas e despesas, controle de caixa, gestão de Salarios software para pequenos negócios, . 💻
+Sou Faztudo Languisse, engenheiro em informática e telecomunicações e mestre em tecnologias de informação, especialista de projetos de informática e inteligência artificial baseado em Tete, Moçambique. Especialista em websites, projetos IA, aplicativos de gestão de estoque, controle de receitas e despesas, controle de caixa, gestão de Salarios software para pequenos negócios, . 💻
 
 ## Habilidades
 - HTML, CSS, JavaScript
