@@ -17,5 +17,6 @@ Sou Faztudo Languisse, engenheiro em informática e telecomunicações e mestre 
 - Link: https://meu-site-phi-roan.vercel.app/
 - https://langisse01.github.io/Cit/
 - https://langisse01.github.io/Negocio/
+- https://faztudolangissechicoco.carrd.co/
 
 Sinta-se à vontade para explorar meus repositórios ou entrar em contato para colaborações em Tete!
